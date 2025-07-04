@@ -1,0 +1,24 @@
+{
+  "milestones": [
+    {
+      "phase": "Core Setup",
+      "status": "Pending",
+      "date": "2025-07-03"
+    },
+    {
+      "phase": "GUI Integration",
+      "status": "Pending",
+      "date": "2025-07-03"
+    },
+    {
+      "phase": "Optimization",
+      "status": "Pending",
+      "date": "2025-07-03"
+    },
+    {
+      "phase": "Iteration",
+      "status": "Pending",
+      "date": "2025-07-03"
+    }
+  ]
+}
