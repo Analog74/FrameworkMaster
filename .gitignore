@@ -1,0 +1,37 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Roblox Studio temp/lock files
+*.rbxl.lock
+*.rbxm.lock
+*.rbxlx.lock
+*.rbxmx.lock
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Python cache (if using scripts)
+__pycache__/
+*.pyc
+
+# Build/output folders (customize as needed)
+build/
+output/
+
+# Node modules (if any JS tooling)
+node_modules/
+
+# User-specific or secret config
+*.local
+.env
+
+# Other
+*.swp
+*.swo
